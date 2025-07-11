@@ -1,0 +1,6 @@
+Name: K.SRILAKSHMI, Roll No: 1, Marks: 89, 98, 78, Total: 265, Result: Pass
+Name: K.SRILEKHA, Roll No: 2, Marks: 77, 89, 88, Total: 254, Result: Pass
+Name: K.LOKESH, Roll No: 3, Marks: 98, 79, 90, Total: 267, Result: Pass
+Name: SRILAKSHMI, Roll No: 1, Marks: 78, 90, 98, Total: 266, Result: Pass
+Name: SRILEKHA, Roll No: 2, Marks: 78, 90, 78, Total: 246, Result: Pass
+Name: LOKESH, Roll No: 3, Marks: 78, 97, 96, Total: 271, Result: Pass
